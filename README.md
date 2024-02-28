@@ -1,4 +1,5 @@
-My first game.
+Game đầu tiên của tui :3.
+Code hơi non.
 Hướng dẫn chạy CyberpunkAdventure:
 Chạy game
 -	Chạy file “CyberpunkAdventure.exe” trong file Test.
